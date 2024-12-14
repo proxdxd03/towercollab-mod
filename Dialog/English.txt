@@ -1,0 +1,86 @@
+TowerCollab_BaconFlake007_TheSummit_BaconFlake007_R00= The Summit
+TowerCollab_Frankie11998= Floating
+TowerCollab_Frankie11998_Floating= Floating
+
+# Checkpoints
+TowerCollab_Frankie11998_Floating_Frankie11998_01_Intro= Floating
+
+### Commands
+# {~}wavy text{/~}
+# {!}impact text{/!}
+# {# 000000}color text{#} (uses HEX color values)
+# {n} creates a newline, without a page break
+# {0.#} pause
+# {big}big text{/big}
+# {*}shake text{/*}
+# {%}drunk text{/%}
+
+##### Chapter Title #####
+
+TowerCollab_andytampan_andytampan_andytampan_T00= Practice Grounds
+
+TowerCollab_BaconFlake007_TheSummit_BaconFlake007_R00= The Summit
+
+TowerCollab_idk= Endless Gravity
+TowerCollab_idk_ConservIDK= Endless Gravity
+TowerCollab_idk_ConservIDK_idk_00= Endless Gravity
+
+idkCIDKid01=
+im a wizard guy
+i love my hat :D
+
+idkCIDKid02=
+wooow impressive
+im a wizard guy too
+ive never seen anybody get here before though
+isn't my hat cool? :D
+
+TUTORIAL_BLUEREFILL= Blue refills:
+TUTORIAL_GREENBLOCKS= Green blocks:
+
+Towercollab_MrSword1= Voltaic
+Towercollab_MrSword1_Voltaic= Voltaic
+Towercollab_proxdxd03= Tower Collab
+Towercollab_proxdxd03_snowballfight= Snowball Fight
+Towercollab_proxdxd03_zipeline= Sunset Climb
+
+Towercollab_proxdxd03_snowballfight_start= 
+	{anchor top}	
+	[MADELINE left normal] Look at all this {~}{#a0e6ff}snow{#}{/~}!
+	[BADELINE right scoff] Not gonna lie, this is really cool!
+	[MADELINE left determined] I wanna climb that {~}scaffolding{/~}...
+	[BADELINE right serious] Isn't that a bit too easy for you?
+	[MADELINE left distracted] Don't worry, I sometimes like myself a chill climb!	
+	[BADELINE right scoff] I think I got an idea tho...	
+	[MADELINE left surprised] Oh no, not again!
+	[BADELINE right scoff] You wanna have a {~}{#a0e6ff}snowball fight{#}{/~}?	
+	[MADELINE left upset] I guess I can't say no, can I?
+
+Towercollab_proxdxd03_snowballfight_sideberry=
+	{0.3}[MADELINE left surprised] Where do you get {*}THAT{/*} many snowballs from!?!?
+	[BADELINE right scoff] Well, I had some practice when you tried to golden the {~}{#e8b923}Golden Ridge{#}{/~} back then...
+	[MADELINE left upset] Come on, I didn't take that long...
+
+Towercollab_proxdxd03_snowballfight_snowballsuper=
+	{anchor bottom}
+	[BADELINE right scoff] Oh, you're gonna like this one!
+	[MADELINE left upset] I'm so scared...
+	[BADELINE right normal] I think I got an idea how you could get up right there!
+	[MADELINE left normal] What do you have in mind?
+	[BADELINE right normal] You just have to dash onto one of my snowballs!
+	[BADELINE right scoff] Just try to not let me headshot you...
+	[MADELINE left upset] Then aim properly for once.
+
+Towercollab_proxdxd03_snowballfight_end=
+	[BADELINE right freakA] Oh my god...
+	[BADELINE right freakB] {>> 0.2}this was {0.4}{*}{!}SOOOO{/!}{/*}{>>} fun!!
+	[MADELINE left distracted] Yeah, I guess...	
+	[MADELINE left upset] {1.2}{>> 0.7}If I'm honest, I prefer not having snow all over my face.{>>}
+	[BADELINE right worried] Come on,{0.5} wasn't it at least a bit fun?
+	[MADELINE left sad] It was a bit too fast paced for my taste.
+	[MADELINE left normal] On the bright side, some of these gaps would've been too big to get over without you.
+	[BADELINE right normal] You're welcome!!
+	[MADELINE left upset] Your snowballs got a {*}lot{/*} of punch tho...
+	[BADELINE right normal] Thanks!
+	[BADELINE right scoff] I gotta invite {~}{#009150}Theo{#}{/~} to a snowball fight over here some day...
+	[BADELINE right scoff] Anyways, see you later!

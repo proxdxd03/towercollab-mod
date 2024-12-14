@@ -1,0 +1,36 @@
+Mountain:
+    Idle:
+        Position: [ -4.13, 5.3, 4 ]
+        Target: [ -2.74, 4.63, 2.7 ]
+    Select:
+        Position: [ -3.14, 4.73, 4.1 ]
+        Target: [ -1.9, 4.1, 2.65 ]
+    Zoom:
+        Position: [ -2.7, 3.94, 2.58 ]
+        Target: [ -1.2, 3.68, 1.26 ]
+    Cursor: [ -2.2, 4.7, 2.2 ]
+    State: 2
+    ShowCore: false
+    Rotate: false
+    BackgroundMusicParams:
+        moon: 1
+    ShowSnow: false
+
+CompleteScreen:
+    Atlas: "Endscreens/Frankie11998/Floating"
+    Offset: [ 120, 0.0 ]
+    Start: [0.0, 800.0]
+    Layers:
+      - Type: "layer"
+        Images: [ "01" ]
+        Position: [ -200.0, 0.0 ]
+        Scroll: [ 0 ]
+        Scale: 10
+      - Type: "layer"
+        Images: [ "02" ]
+        Scroll: [ 0.15 ]
+        Scale: 1.4
+      - Type: "layer"
+        Images: [ "03" ]
+        Scroll: [ 0.17 ]
+        Scale: 1.4
