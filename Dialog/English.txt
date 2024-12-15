@@ -79,3 +79,8 @@ Towercollab_proxdxd03_snowballfight_end=
 	[BADELINE right normal] Thanks!
 	[BADELINE right scoff] I gotta invite {~}{#009150}Theo{#}{/~} to a snowball fight over here some day...
 	[BADELINE right scoff] Anyways, see you later!
+
+
+towercollab_proxdxd03_underwater_welcome=
+	Welcome to the Crystal Cave, traveller!
+	I hope you have a nice relaxing time here :){n}- proxdxd03
