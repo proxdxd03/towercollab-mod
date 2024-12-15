@@ -37,6 +37,7 @@ TowerCollab_001_baconflake007_summit= The Summit
 TowerCollab_000_andytampan_practicegrounds= Practice Grounds
 TowerCollab_101_proxdxd03_autotemple= Temple of Doom
 TowerCollab_003_pesgo_temple= Cloud Temple
+TowerCollab_102_maplearc_pico= PICO
 
 Towercollab_proxdxd03_snowballfight_start= 
 	{anchor top}	
