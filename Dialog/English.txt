@@ -1,7 +1,3 @@
-TowerCollab_BaconFlake007_TheSummit_BaconFlake007_R00= The Summit
-TowerCollab_Frankie11998= Floating
-TowerCollab_Frankie11998_Floating= Floating
-
 # Checkpoints
 TowerCollab_Frankie11998_Floating_Frankie11998_01_Intro= Floating
 
@@ -15,15 +11,6 @@ TowerCollab_Frankie11998_Floating_Frankie11998_01_Intro= Floating
 # {*}shake text{/*}
 # {%}drunk text{/%}
 
-##### Chapter Title #####
-
-TowerCollab_andytampan_andytampan_andytampan_T00= Practice Grounds
-
-TowerCollab_BaconFlake007_TheSummit_BaconFlake007_R00= The Summit
-
-TowerCollab_idk= Endless Gravity
-TowerCollab_idk_ConservIDK= Endless Gravity
-TowerCollab_idk_ConservIDK_idk_00= Endless Gravity
 
 idkCIDKid01=
 im a wizard guy
@@ -38,11 +25,18 @@ isn't my hat cool? :D
 TUTORIAL_BLUEREFILL= Blue refills:
 TUTORIAL_GREENBLOCKS= Green blocks:
 
-Towercollab_MrSword1= Voltaic
-Towercollab_MrSword1_Voltaic= Voltaic
-Towercollab_proxdxd03= Tower Collab
-Towercollab_proxdxd03_snowballfight= Snowball Fight
-Towercollab_proxdxd03_zipeline= Sunset Climb
+Towercollab= Tower Collab
+Towercollab_400_MrSword1_Voltaic= Voltaic
+Towercollab_300_mediummac_tantalum= Tantalum
+TowerCollab_201_mac_endlessgravity= Endless Gravity
+TowerCollab_301_frankie11998_floating= Floating
+Towercollab_100_proxdxd03_snowballfight= Snowball Fight
+Towercollab_002_proxdxd03_underwater= Crystal Dive
+Towercollab_200_proxdxd03_zipeline= Sunset Climb
+TowerCollab_001_baconflake007_summit= The Summit
+TowerCollab_000_andytampan_practicegrounds= Practice Grounds
+TowerCollab_101_proxdxd03_autotemple= Temple of Doom
+TowerCollab_003_pesgo_temple= Cloud Temple
 
 Towercollab_proxdxd03_snowballfight_start= 
 	{anchor top}	
