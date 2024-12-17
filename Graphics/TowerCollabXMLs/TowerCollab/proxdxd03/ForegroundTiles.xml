@@ -203,4 +203,6 @@
   <Tileset id="Ϩ" copy="z" path="TowerCollab/proxdxd03/redbubbleblock" displayName="Red Bubble Block"/>
   <Tileset id="ϩ" copy="z" path="TowerCollab/proxdxd03/udashblock" displayName="Underwater Dash Block"/>
   <Tileset id="ϋ" copy="z" path="TowerCollab/proxdxd03/darkgirder2" displayName="Dark Girder"/>
+  <Tileset id="ε" copy="z" path="TowerCollab/proxdxd03/darkgirderwosnow" displayName="Dark Girder without Snow"/>
+  <Tileset id="δ" copy="z" path="TowerCollab/proxdxd03/empty" displayName="Transparent Block"/>
 </Data>
