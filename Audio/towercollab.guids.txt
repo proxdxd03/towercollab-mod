@@ -696,6 +696,7 @@
 {b5fd173e-9a58-4412-9be1-094108b82157} event:/state/cafe_computer_active
 {d85a0635-cbcf-4ba3-8466-b6e24aa45894} event:/state/underwater
 {6b1eba8e-2df8-49ff-99c0-a00f9e8ee94f} event:/towercollab/bling
+{d4f40947-fc93-449a-8d97-8de53dd27641} event:/towercollab/crystaldive
 {141b8344-1c94-427a-9ea8-dc612d1cf39e} event:/towercollab/practicegrounds
 {16ab5a9a-9f0b-4675-83a0-7350c959c396} event:/towercollab/snowballfight
 {4098a669-3059-406b-8395-1ce31c7c16b5} event:/towercollab/zipeline
