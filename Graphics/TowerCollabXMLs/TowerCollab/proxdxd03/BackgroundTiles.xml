@@ -135,4 +135,5 @@
   <Tileset id="e" copy="z" path="bgLostLevels"/>
   <Tileset id="ῡ" copy="z" path="TowerCollab/proxdxd03/zipelinedirt" displayName="Brown Dirt"/>
   <Tileset id="ΰ" copy="z" path="TowerCollab/proxdxd03/bggirder" displayName="Dark Girder"/>
+  <Tileset id="ϒ" copy="z" path="TowerCollab/proxdxd03/colddirt" displayName="Cold Dirt"/>
 </Data>

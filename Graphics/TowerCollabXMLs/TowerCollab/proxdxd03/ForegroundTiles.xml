@@ -205,4 +205,6 @@
   <Tileset id="ϋ" copy="z" path="TowerCollab/proxdxd03/darkgirder2" displayName="Dark Girder"/>
   <Tileset id="ε" copy="z" path="TowerCollab/proxdxd03/darkgirderwosnow" displayName="Dark Girder without Snow"/>
   <Tileset id="δ" copy="z" path="TowerCollab/proxdxd03/empty" displayName="Transparent Block"/>
+  <Tileset id="Ͳ" copy="z" path="TowerCollab/proxdxd03/summitgreystone" displayName="Grey Stone"/>
+  <Tileset id="ͳ" copy="z" path="TowerCollab/proxdxd03/summitgreystonesnow" displayName="Snowy Grey Stone"/>
 </Data>

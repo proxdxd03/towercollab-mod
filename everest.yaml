@@ -7,6 +7,8 @@
       Version: 1.8.1
     - Name: BrokemiaHelper
       Version: 1.8.1
+    - Name: CavernHelper
+      Version: 1.3.7
     - Name: CherryHelper
       Version: 1.8.1
     - Name: ChroniaHelper
@@ -34,9 +36,9 @@
     - Name: ContortHelper
       Version: 1.5.5
     - Name: CrystallineHelper
-      Version: 1.16.4
-    - Name: CrystallineHelper
       Version: 1.16.3
+    - Name: CrystallineHelper
+      Version: 1.16.4
     - Name: DJMapHelper
       Version: 1.13.4
     - Name: DJMapHelper
@@ -50,26 +52,26 @@
     - Name: EeveeHelper
       Version: 1.12.1
     - Name: Everest
-    - Name: Everest
-      Version: 1.3471.0
+      Version: 1.5052.0
     - Name: Everest
       Version: 1.5095.0
     - Name: Everest
-      Version: 1.5052.0
+      Version: 1.3471.0
+    - Name: Everest
     - Name: Everest
       Version: 1.5052.0
     - Name: Everest
       Version: 1.3471.0
     - Name: Everest
-      Version: 1.5052.0
-    - Name: Everest
       Version: 1.5083.0
+    - Name: Everest
+      Version: 1.5052.0
+    - Name: ExtendedVariantMode
+      Version: 0.39.2
+    - Name: ExtendedVariantMode
+      Version: 0.39.2
     - Name: ExtendedVariantMode
       Version: 0.39.0
-    - Name: ExtendedVariantMode
-      Version: 0.39.2
-    - Name: ExtendedVariantMode
-      Version: 0.39.2
     - Name: ExtendedVariantMode
       Version: 0.39.2
     - Name: FemtoHelper
@@ -77,17 +79,17 @@
     - Name: FlaglinesAndSuch
       Version: 1.6.29
     - Name: FrostHelper
+      Version: 1.58.1
+    - Name: FrostHelper
+      Version: 1.58.1
+    - Name: FrostHelper
       Version: 1.47.4
-    - Name: FrostHelper
-      Version: 1.58.1
-    - Name: FrostHelper
-      Version: 1.58.1
     - Name: FrostHelper
       Version: 1.54.1
     - Name: FrostHelper
-      Version: 1.58.2
-    - Name: FrostHelper
       Version: 1.58.1
+    - Name: FrostHelper
+      Version: 1.58.2
     - Name: GravityHelper
       Version: 1.2.21
     - Name: GravityHelper
@@ -107,19 +109,19 @@
     - Name: LunaticHelper
       Version: 1.1.1
     - Name: MaxHelpingHand
-      Version: 1.32.0
-    - Name: MaxHelpingHand
-      Version: 1.32.0
-    - Name: MaxHelpingHand
-      Version: 1.32.0
-    - Name: MaxHelpingHand
-      Version: 1.32.0
-    - Name: MaxHelpingHand
-      Version: 1.32.0
-    - Name: MaxHelpingHand
-      Version: 1.32.0
-    - Name: MaxHelpingHand
       Version: 1.33.2
+    - Name: MaxHelpingHand
+      Version: 1.32.0
+    - Name: MaxHelpingHand
+      Version: 1.32.0
+    - Name: MaxHelpingHand
+      Version: 1.32.0
+    - Name: MaxHelpingHand
+      Version: 1.32.0
+    - Name: MaxHelpingHand
+      Version: 1.32.0
+    - Name: MaxHelpingHand
+      Version: 1.32.0
     - Name: NerdHelper
       Version: 1.6.2
     - Name: NerdHelper
@@ -134,20 +136,22 @@
       Version: 1.12.0
     - Name: QuantumMechanics
       Version: 1.2.0
+    - Name: SSMHelper
+      Version: 1.2.8
     - Name: Sardine7
       Version: 1.2.0
     - Name: ShroomHelper
       Version: 1.2.8
     - Name: SorbetHelper
-      Version: 1.4.0
-    - Name: SorbetHelper
-      Version: 1.4.0
-    - Name: SorbetHelper
-      Version: 1.4.0
-    - Name: SorbetHelper
-      Version: 1.4.0
-    - Name: SorbetHelper
       Version: 1.3.1
+    - Name: SorbetHelper
+      Version: 1.4.0
+    - Name: SorbetHelper
+      Version: 1.4.0
+    - Name: SorbetHelper
+      Version: 1.4.0
+    - Name: SorbetHelper
+      Version: 1.4.0
     - Name: Spooooky's Asset Pack
       Version: 1.0.9
     - Name: StyleMaskHelper
