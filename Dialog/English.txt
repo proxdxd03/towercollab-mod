@@ -25,6 +25,15 @@ isn't my hat cool? :D
 TUTORIAL_BLUEREFILL= Blue refills:
 TUTORIAL_GREENBLOCKS= Green blocks:
 
+TowerCollabRenPinefur1=
+If you haven't already, it is very strongly recommended that you set a {~}crouch dash{/~} keybind for this checkpoint!
+
+RenPinefur_Crouchdash=
+Crouch Dash
+
+RenPinefur_Demohyper=
+Demohyper
+
 Towercollab= Tower Collab
 Towercollab_400_MrSword1_Voltaic= Voltaic
 Towercollab_300_mediummac_tantalum= Tantalum
@@ -38,6 +47,8 @@ TowerCollab_000_andytampan_practicegrounds= Practice Grounds
 TowerCollab_101_proxdxd03_autotemple= Temple of Doom
 TowerCollab_003_pesgo_temple= Cloud Temple
 TowerCollab_102_maplearc_pico= PICO
+TowerCollab_203_renpinefur_bynight= By Night
+
 
 Towercollab_proxdxd03_snowballfight_start= 
 	{anchor top}	
