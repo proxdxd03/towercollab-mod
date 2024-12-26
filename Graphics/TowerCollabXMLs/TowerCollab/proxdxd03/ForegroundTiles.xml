@@ -207,4 +207,5 @@
   <Tileset id="δ" copy="z" path="TowerCollab/proxdxd03/empty" displayName="Transparent Block"/>
   <Tileset id="Ͳ" copy="z" path="TowerCollab/proxdxd03/summitgreystone" displayName="Grey Stone"/>
   <Tileset id="ͳ" copy="z" path="TowerCollab/proxdxd03/summitgreystonesnow" displayName="Snowy Grey Stone"/>
+  <Tileset id="ϖ" copy="z" path="TowerCollab/proxdxd03/summitcorestone" displayName="Core Grey Stone"/>
 </Data>

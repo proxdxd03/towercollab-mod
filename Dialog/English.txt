@@ -48,6 +48,7 @@ TowerCollab_101_proxdxd03_autotemple= Temple of Doom
 TowerCollab_003_pesgo_temple= Cloud Temple
 TowerCollab_102_maplearc_pico= PICO
 TowerCollab_203_renpinefur_bynight= By Night
+TowerCollab_202_proxdxd03_icypeaks= Icy Peaks
 
 
 Towercollab_proxdxd03_snowballfight_start= 
@@ -91,7 +92,6 @@ Towercollab_proxdxd03_snowballfight_end=
 	[BADELINE right scoff] I gotta invite {~}{#009150}Theo{#}{/~} to a snowball fight over here some day...
 	[BADELINE right scoff] Anyways, see you later!
 
-
-towercollab_proxdxd03_underwater_welcome=
-	Welcome to the Crystal Cave, traveller!
-	I hope you have a nice relaxing time here :){n}- proxdxd03
+Towercollab_proxdxd03_icypeaks_coremode=
+    {1}
+	[MADELINE left upset] Ah shit, I should have known this is another core mode chapter. {0.4}Why do people keep making these!?
