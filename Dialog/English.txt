@@ -95,3 +95,7 @@ Towercollab_proxdxd03_snowballfight_end=
 Towercollab_proxdxd03_icypeaks_coremode=
     {1}
 	[MADELINE left upset] Ah shit, I should have known this is another core mode chapter. {0.4}Why do people keep making these!?
+
+Towercollab_proxdxd03_icypeaks_style=
+	[MADELINE left determined] Damn, that styleground is fancy tho!
+	[MADELINE left upset] And the map maker is definitely not shamelessly complimenting themselves right now...
