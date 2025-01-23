@@ -49,6 +49,7 @@ TowerCollab_003_pesgo_temple= Cloud Temple
 TowerCollab_102_maplearc_pico= PICO
 TowerCollab_203_renpinefur_bynight= By Night
 TowerCollab_202_proxdxd03_icypeaks= Icy Peaks
+TowerCollab_500_howlingwulf_anchoredascent= Anchored Ascent
 
 
 Towercollab_proxdxd03_snowballfight_start= 
@@ -99,3 +100,19 @@ Towercollab_proxdxd03_icypeaks_coremode=
 Towercollab_proxdxd03_icypeaks_style=
 	[MADELINE left determined] Damn, that styleground is fancy tho!
 	[MADELINE left upset] And the map maker is definitely not shamelessly complimenting themselves right now...
+
+
+H0wlingWulfAADash=
+[MADELINE left normal]
+This path will give you two dashes if you go through it.
+it is meant to give players who dislike this type of gameplay an easier time with this level.
+I don't want to force anyone into a situation where they are frustrated and annoyed by my maps.
+Thank you.
+
+H0wlingWulfAACorner=
+[MADELINE left normal]
+c at
+mrrow
+
+H0wlingWulfAAAA=
+Anchored Ascent
