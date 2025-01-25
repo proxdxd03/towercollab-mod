@@ -1,0 +1,7 @@
+- Name: towerCollab
+  Version: 0.0.1
+  Dependencies:
+    - Name: CollabUtils2
+      Version: 1.10.14
+    - Name: Everest
+      Version: 1.5184.0
