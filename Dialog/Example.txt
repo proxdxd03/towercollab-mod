@@ -1,0 +1,420 @@
+# NOTES:
+# The # Symbol at the start of a line counts as a Comment. To include in dialog, use a \#
+# The . Symbol will cause a pause unless escaped with \. (ex: Mr. Oshiro has a pause, Mr\. Oshiro does not)
+# Newlines automatically create a Page Break, unless there is an {n} command on the previous line
+# Commands: Anything inside of curly braces {...} is a command and should not be translated.
+ 
+
+# Inline Text Commands:
+# {~}wavy text{/~}
+# {!}impact text{/!}
+# {>> x}changes speed at which characters are displayed{>>}
+# {# 000000}this text is black{#} (uses HEX color values)
+# {+MENU_BEGIN} inserts the dialog from the MENU_BEGIN value (in English, "CLIMB")
+# {n} creates a newline, without a page break
+# {0.5} creates a 0.5 second pause, or alternatively more or less, it depends on how you set the number to be
+# {big}this text is large{/big}
+
+
+
+
+
+# if you type something and you follow up with this {+MADELINE} , it will make the text special
+# name list: 
+# THEO
+# THEO_UNDER_STARS
+# MIXMASTER_THEO
+# MOM
+# MROSHIRO
+# OSHIRO
+# ELCREEPO
+# MADELINE
+# MS_MADELINE
+# RESORT
+# THOUGHT
+# ENDTHOUGHT
+# MOUNTAIN
+# CELESTE_MOUNTAIN
+# PART_OF_ME
+# PART_OF_YOU
+# ST_BAD
+# END_BAD
+# GRANNY
+# PART_OF_HER
+# PART_OF_GRANNY
+# THEO_SISTER_NAME
+# THEO_SISTER_ALT_NAME
+# ALEX
+
+
+# alternatively, you can create your own, like this:
+CUSTOM_THINGY_THINGDIALOGDADBOT=				{# color}the thing that it will say {#}
+
+# or if you want the custom thing to be specially sayed, please refer to the Inline Text Commands
+CUSTOM_THINGY_THINGDIALOGDADBOT2=				{~}the thing that it will say but wavy example {/~}
+CUSTOM_THINGY_THINGDIALOGDADBOT3=				{# color}{~}the thing that it will say but wavy and also colored example {/~}{#}
+
+DADBODDIALOGDADBOD=				{# DADB0D}DADBOD {#}
+
+
+
+
+heagridswagerdadbothelpdialoghi=
+[MADELINE left normal]
+Get in loser!!! were going to the internet!!
+hi people, Im heagridswager and I gave {+DADBODDIALOGDADBOD} permission to post this map as example
+you are awesome guys
+thx {+DADBODDIALOGDADBOD} :)
+if you want to, check tis dialog and the english.txt to copy paste the expressions instead of typing them
+enjoy the example
+
+
+
+heagridswagerdadbothelpdialogleft_right=
+[MADELINE left normal]
+you can get my face or any of my friends faces left
+[MADELINE right normal]
+or right by
+[MADELINE left normal]
+(character left expression)
+[MADELINE right normal]
+(character right expression)
+[MADELINE left normal]
+I will be referring to these as directions
+[MADELINE left sad]
+keep in mind that I must use these () to explain it, but YOU must use these ][ for it to work
+so )=] (=[
+
+heagridswagerdadbothelpdialogflip=
+[MADELINE left normal]
+if you put character on right
+
+[MADELINE right normal]
+it will flip the picture automatically
+
+[MADELINE left normal]
+but sometimes you need something like
+
+[MADELINE left normal flip]
+this
+
+[MADELINE right normal flip]
+you can achieve this by writing flip after expression
+
+[MADELINE left normal flip]
+so: (character direction expression flip)
+
+[MADELINE left normal upsidedown]
+EVERY character can be upside down if you write upsidedown after expression
+(character direction expression upsidedown)
+
+[MADELINE left normal pop]
+you can make  picture to pop
+
+[MADELINE left normal pop]
+it is a weird effect that looks like this, pay attention to picture
+
+[MADELINE left normal pop]
+see?
+
+[MADELINE left normal pop]
+you achieve this by writing pop after expression
+
+[MADELINE left normal pop]
+(character direction expression pop)
+
+[MADELINE left normal upsidedown flip pop]
+you can all combinate effects
+(character direction expression upsidedown flip pop) in any order
+
+[MADELINE left determined upsidedown flip pop]
+all things can be used on EVERY character, directions and expressions work
+
+[MADELINE left distracted]
+you may also change expression by [MADELINE left normal] typing the text command in middle of line
+
+[MADELINE left normal]
+something like this:  character is talking {0.5}[MADELINE left distracted] (character direction expression) character is talking again
+
+[MADELINE left normal]
+please refer to the NOTES in the English.txt for advanced text {n}
+or in the original celeste .txt file, for example {~}wavy text{/~}
+
+
+heagridswagerdadbothelpdialogmadeline=
+[MADELINE left normal]
+ey, here are my expressions
+
+[MADELINE left normal]
+(MADELINE direction normal)
+
+[MADELINE left sad]
+(MADELINE direction sad)
+
+[MADELINE left sadder]
+(MADELINE direction sadder)
+
+[MADELINE left upset]	
+(MADELINE direction upset)
+
+[MADELINE left angry]
+(MADELINE direction angry)
+
+[MADELINE left distracted]
+(MADELINE direction distracted)
+
+[MADELINE left surprised]
+(MADELINE direction surprised)
+
+[MADELINE left panic]
+(MADELINE direction panic)
+
+[MADELINE left determined]
+(MADELINE direction determined)
+
+[MADELINE left determinedclosed]
+(MADELINE direction determinedclosed)
+
+[MADELINE left together]
+(MADELINE direction together)
+
+[MADELINE left togetherZoom]
+(MADELINE direction togetherZoom)
+
+[MADELINE_PHONE left distracted]
+(MADELINE_PHONE left expression)
+
+[MADELINE_PHONE left sad]
+I can be on phone
+[MADELINE_PHONE left angry]
+Anny expressions work
+
+[MADELINE_MIRROR left normal]
+if you write(MADELINE_MIRROR direction expression) I will be mirrory
+
+[MADELINE_MIRROR left determined]
+I can use multiple expressions
+
+[MADELINE_MIRROR left sad]
+NOT every character can use this, because its name based
+
+[MADELINE left deadpan]
+(MADELINE direction deadpan)
+
+heagridswagerdadbothelpdialoggranny=
+[GRANNY right normal]
+Hello dear.
+
+[MADELINE left normal]
+hi {+GRANNY}, I kinda need all your expressions
+
+[GRANNY right normal]
+allrigh
+
+[GRANNY right normal]
+(GRANNY direction normal)
+
+[GRANNY right laugh]
+(GRANNY direction laugh)
+
+[GRANNY right creepA]
+(GRANNY direction creepA)
+
+[GRANNY right creepB]
+(GRANNY direction creepB)
+
+[GRANNY right mock]
+(GRANNY direction mock)
+
+heagridswagerdadbothelpdialogtheo=
+[MADELINE left normal]
+hey {+THEO}, I need ur expressions
+
+[THEO right normal]
+sure thing
+
+[THEO right normal]
+(THEO direction normal)
+
+[THEO right excited]
+(THEO direction excited)
+
+[THEO right thinking]
+(THEO direction thinking)
+
+[THEO right wtf]
+(THEO direction wtf)
+
+[THEO right yolo]
+(THEO direction yolo)
+
+[THEO right worried]
+(THEO direction worried)
+
+[THEO right serious]
+(THEO direction serious)
+
+[THEO right nailedit]
+(THEO direction nailedit)
+
+[THEO_MIRROR right excited]
+(THEO_MIRROR direction expression)
+
+[THEO_MIRROR right excited]
+Im another character that can use mirror
+
+[WEBCAM_THEO right normal]
+(WEBCAM_THEO direction expression)
+
+[WEBCAM_THEO right excited]
+and I can be also as webcam
+
+heagridswagerdadbothelpdialogoshiro=
+[MADELINE left normal]
+{+MROSHIRO}, willing to help?
+I need expressions of yours
+
+[OSHIRO right normal]
+sure thing, anything for a guest
+
+[OSHIRO right normal]
+(OSHIRO direction normal)
+
+[OSHIRO right worried]
+(OSHIRO direction worried)
+
+[OSHIRO right drama]
+(OSHIRO direction drama)
+
+[OSHIRO right serious]
+(OSHIRO direction serious)
+
+[OSHIRO right nervous]
+(OSHIRO direction nervous)
+
+[OSHIRO right sidehappy]
+(OSHIRO direction sidehappy)
+
+[OSHIRO right sideworried]
+(OSHIRO direction sideworried)
+
+[OSHIRO right sidesuspicious]
+(OSHIRO direction sidesuspicious)
+
+[OSHIRO right lostcontrol]
+(OSHIRO direction lostcontrol)
+
+heagridswagerdadbothelpdialogbadeline=
+[MADELINE left normal]
+hey, I need help
+
+[BADELINE right upset]
+I need one too
+
+[MADELINE left sad]
+??
+
+[BADELINE right upset]
+I lost my hair
+
+[MADELINE left sad]
+...
+
+[MADELINE left normal]
+I need your expressions
+
+[BADELINE right normal]
+ok
+
+[BADELINE right normal]
+(BADELINE direction normal)
+
+[BADELINE right worried]
+(BADELINE direction worried)
+
+[BADELINE right worriedAlt]
+(BADELINE direction worriedAlt)
+
+[BADELINE right concerned]
+(BADELINE direction concerned)
+
+[BADELINE right angry]
+(BADELINE direction angry)
+
+[BADELINE right angryAlt]
+(BADELINE direction angryAlt)
+
+[BADELINE right sad]
+(BADELINE direction sad)
+
+[BADELINE right upset]
+(BADELINE direction upset)
+
+[BADELINE right scoff]
+(BADELINE direction scoff)
+
+[BADELINE right serious]
+(BADELINE direction serious)
+
+[BADELINE right yell]
+(BADELINE direction yell)
+
+[BADELINE right freakA]
+(BADELINE direction freakA)
+
+[BADELINE right freakB]
+(BADELINE direction freakB)
+
+[BADELINE right freakBAlt]
+(BADELINE direction freakBAlt)
+
+[BADELINE right freakC]
+(BADELINE direction freakC)
+
+[BADELINE right freakCAlt]
+(BADELINE direction freakCAlt)
+
+[BADELINE right freakC_cont]
+(BADELINE direction freakC_cont)
+
+[BADELINE right sigh]
+(BADELINE direction sigh)
+
+[BADELINE right simple_sigh]
+(BADELINE direction simple_sigh)
+
+heagridswagerdadbothelpdialogphone=
+[MADELINE_PHONE left sad]
+hi {+MOM}, hi sweetheart
+
+[EX_PHONE right normal]
+im your ex, you forgot?
+
+[MOM_PHONE right concerned]
+Oh no, what happened?
+
+[MADELINE_PHONE left sad]
+no time to talk, I need your expressions
+
+[EX_PHONE right normal]
+(EX_PHONE direction normal)
+
+[MOM_PHONE right normal]
+(MOM_PHONE direction normal)
+
+[MOM_PHONE right concerned]
+(MOM_PHONE direction concerned)
+
+[MADELINE_PHONE left sad]
+thx, bye
+
+poem_heagridswagerdialogdadbodhelp_dadbod_dialog_helper_A= letters and faces
+
+heagridswagerdialogdadbodhelp_dadbod_dialog_helper= dadbod dialog help
+
+heagridswagerdialogdadbodhelp= dialog help for dadbod
+
+heagridswagerdadbothelpdialogroom_of_fun=
+[MADELINE left normal]
+welcome to room of fun.......
+have fun

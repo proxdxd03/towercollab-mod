@@ -50,6 +50,7 @@ TowerCollab_102_maplearc_pico= PICO
 TowerCollab_203_renpinefur_bynight= By Night
 TowerCollab_202_proxdxd03_icypeaks= Icy Peaks
 TowerCollab_500_howlingwulf_anchoredascent= Anchored Ascent
+TowerCollab_501_wymiki_selfstruggle= Self Struggle
 
 
 Towercollab_proxdxd03_snowballfight_start= 
@@ -116,3 +117,82 @@ mrrow
 
 H0wlingWulfAAAA=
 Anchored Ascent
+
+wymiki__A01_title= Self struggle
+wymiki__A01_bywym= by wymiki
+
+wymiki_start_dialog=
+
+[MADELINE left surprised]
+THEOO?!?!
+
+[THEO right normal]
+That's me!
+
+[MADELINE left deadpan]
+How did you end {~}up here{/~}?
+
+[THEO right normal]
+Oh trust me, I wish I knew
+
+[MADELINE left distracted]
+I wouldn't have expected to find you in here
+
+[THEO right normal]
+Guess is {# 15c217}{~}our{/~} lucky day{#}, would mind lending me a hand?
+
+[MADELINE left normal]
+No worries, sure!
+
+{ph_trigger baddy_split -25 0 true}
+
+[BADELINE right normal]
+Wait, you really think this is a good idea?
+
+[MADELINE left upset]
+What makes you think it isn't, uh?
+
+[BADELINE right upset]
+Well, we have been climbing this tower for forever now
+
+[BADELINE right worried]
+What makes you believe it's gonna be possible to reach the top?
+
+[BADELINE right upset]
+The levels have only gotten harder and harder...
+
+[MADELINE right sad]
+.{o.3}.{o.3}.
+
+[BADELINE right worried]
+... I'm just worried it will hit you harder to back down later than if you give up now
+
+[THEO right worried]
+I would leave to give ya girls space but...
+		
+[MADELINE left upset]
+Don't worry, I think she finished bothering
+
+[BADELINE right upset]
+You will understand, don't worry
+
+{ph_trigger baddy_vanish}
+
+wymiki_key_dialog=
+{ph_trigger baddy_appear, xOffset = 0, yOffset = y -25 0 }
+
+[BADELINE right normal]
+Missed me darling?
+
+[MADELINE left upset]
+What do you want now?
+
+[BADELINE right normal]
+Well, just saying, this rooms seems to have no exit
+
+[BADELINE right normal]
+Better to backtrack uh?
+
+[MADELINE right upset]
+Is this one of your works?
+
