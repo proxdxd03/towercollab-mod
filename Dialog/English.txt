@@ -102,6 +102,9 @@ Towercollab_proxdxd03_icypeaks_style=
 	[MADELINE left determined] Damn, that styleground is fancy tho!
 	[MADELINE left upset] And the map maker is definitely not shamelessly complimenting themselves right now...
 
+TowerCollab_proxdxd03_ascent=
+    {ph_trigger wait_for_ground}
+
 
 H0wlingWulfAADash=
 [MADELINE left normal]
