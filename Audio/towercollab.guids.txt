@@ -203,6 +203,7 @@
 {9bbc655b-22ce-4c82-897b-cfe0fad986d5} event:/env/local/waterfall_small_in_shallow
 {ccef0473-c1e5-4dd0-8c94-fc3fe5fc95bb} event:/env/local/waterfall_small_main
 {6a3f7aaf-bea3-4ac6-a919-d4b6eef81ae7} event:/env/state/underwater
+{15f5e75f-3b6d-46c8-8875-327461f9eede} event:/forcesofdecay/forcesofdecay
 {3ccaf3ea-984a-47a2-90b4-d5c8bbd089ea} event:/furretmod/the forbidden truth
 {13659e8e-02e3-480d-9cda-0913141932a4} event:/furretmod/the tomorrow's trip
 {62096d8f-d448-4910-a371-038c431fa906} event:/furretmod/windy skies
@@ -699,6 +700,7 @@
 {d4f40947-fc93-449a-8d97-8de53dd27641} event:/towercollab/crystaldive
 {141b8344-1c94-427a-9ea8-dc612d1cf39e} event:/towercollab/practicegrounds
 {16ab5a9a-9f0b-4675-83a0-7350c959c396} event:/towercollab/snowballfight
+{68d5fad2-608d-44fb-8b8a-80362996e189} event:/towercollab/spacedream
 {4098a669-3059-406b-8395-1ce31c7c16b5} event:/towercollab/zipeline
 {c4d2289a-859e-42e9-ba38-eee1791a3a62} event:/ui/game/chatoptions_appear
 {dd4cb027-0132-4039-9303-c9ad8589683e} event:/ui/game/chatoptions_roll_down
@@ -1007,6 +1009,7 @@
 {1aa61ee8-68fc-4c62-9a54-35743044bafe} snapshot:/berry_cooperation/5000s_down
 {a327f717-e8b5-4fb0-b4dd-84bd8a585fe0} bank:/dlc_music
 {e85b3c9e-428d-41b7-82c0-37814f3cbf15} bank:/dlc_sfx
+{64b24570-1998-4402-bb00-71ea8af13a7a} bank:/forcesofdecay
 {c1064554-ab3a-4b94-b6c0-e066c3d96004} bank:/furretmod
 {7916fdbf-1253-451d-a369-6dfd34341e4e} bank:/music
 {4087dc90-43bf-4db4-b7d2-04658959c1bf} bank:/partysides
