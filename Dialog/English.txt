@@ -106,6 +106,12 @@ Towercollab_proxdxd03_icypeaks_style=
 TowerCollab_proxdxd03_ascent=
     {ph_trigger wait_for_ground}
 
+Towercollab_proxdxd03_confrontationaltherapy_memo= 
+    DAMN THIS SEEKER BE CRAZY
+
+Towercollab_proxdxd03_confrontationaltherapy_ultraspeed= 
+    320
+
 
 H0wlingWulfAADash=
 [MADELINE left normal]
