@@ -140,4 +140,5 @@
   <Tileset id="Ϣ" copy="z" path="TowerCollab/proxdxd03/bglightcore" displayName="Light Core"/>
   <Tileset id="Ϫ" copy="z" path="TowerCollab/proxdxd03/bgstarttower" displayName="Start Tower"/>
   <Tileset id="Ϭ" copy="z" path="TowerCollab/proxdxd03/bgunderwater" displayName="Underwater"/>
+  <Tileset id="Ѩ" copy="z" path="TowerCollab/proxdxd03/bgabstract" displayName="Abstract"/>
 </Data>

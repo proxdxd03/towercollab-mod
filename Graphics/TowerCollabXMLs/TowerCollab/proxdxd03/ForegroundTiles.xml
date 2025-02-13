@@ -524,6 +524,7 @@
       <set mask="padding" tiles="6,6; 7,6; 8,6; 9,6;  6,7; 6,8; 6,9;  9,7; 9,8; 9,9;  7,9; 8,9"/>
       <set mask="center" tiles="7,7; 8,7; 7,8; 8,8"/>
   </Tileset>
+  <Tileset id="ѩ" copy="z" path="TowerCollab/proxdxd03/abstract" displayName="Abstract"/>
    <Tileset id="ϛ" copy="z" path="TowerCollab/proxdxd03/tower" displayName="Start Tower"/>
    <Tileset id="ϭ" copy="z" path="TowerCollab/proxdxd03/underwater" displayName="Underwater"/>
   
