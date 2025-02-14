@@ -200,12 +200,9 @@ wymiki_start_dialog=
 	#Dream zipline wall boost 
 	wymiki_gym_r1=
 		This tech isn't use much on the map but is good to know
-		It doesn't really have a name but I guess is some sort of dashless wall boost
-		But Dashing
-		In this case, dash into the dream block and exit it with a dream jump
-		Before touching the core block in from of you, buffer a wall jump
-		It MUST be buffered
-		Upon touching this wall, you will receibe the vertical speed of a wall boost
+		It is based on momentum carry
+		In this setup you execute a wallbounce by jumping while you still have the liftboost from the zip dream block
+		Basically, execute a dream jump and jump again quickly to wallbounce off the core block in front
 	#Dream smuggle
 	wymiki_gym_r4=
 		This tech is called dream smuggle
@@ -218,10 +215,9 @@ wymiki_start_dialog=
 	#C-POP NOOOOO
 	wymiki_gym_r5=
 		C-pop
-		Search for a tutorial, gl 
+		Search for a tutorial, gl
 		But to sum up
-		When a c-pop is required in this map, your subpixels will be set to 0.5 and 0.5 for consistency
-		Hold to the lowest point of the ledge, hold the direction you wanna go to, and press the down button por some frames
+		Hold to the lowest point of the ledge, hold the direction you wanna go to, and press the down button for some frames
 		Upon falling, quickly jump
 		If done properly, you should get to the next switch block
 	#Bewy
