@@ -167,59 +167,59 @@ wymiki_start_dialog=
 #gym
 	#gym presentation
 	wymiki_gym_r0=
-		Welcome to the gym
-		This gym has 5 tech room, and a berry room
-		To enter any of them, swim up the water and enter any of the holes
-		The first hole will bring you back to the hub
-		While the last hole will bring you to the berry
-		The first tech room is really important if you are aiming to finish this , make sure to master it
+		Welcome to the gym.
+		This gym has 5 tech rooms, and a berry room.
+		To enter any of them, swim up the water and enter one of the holes.
+		The first hole will bring you back to this hub.
+		While the last hole will bring you to the berry.
+		The first tech room is really important if you are aiming to finish this, make sure to master it.
 		GL and HF ^^ <3
 	#Core block entity displacement / Bounce block entity displacement presentation
 	wymiki_gym_r3=
-		Welcome to the Core block entity displacement gym room, this trick can only be perfomed on fire mode
-		To perform Core/Bounce block entity displacement, first, break the core block
-		Secondly, for commodity, place your self inside the core block respawn position, stopping it from respawning
-		Wait until when the core block can instantly respawn upon leaving
-		Leave the core block respawn position and rapidly grab it before it even starts to spawn in, then, release quickly to instantly break the coreblock
-		If perform properly, entities attached to the core block will stay displaced while the coreblock stays broken
-		To pet the cat, stop the core block from respawning with your Theo crystal, so you can use the entities attached
-		To come back, use a demo dash on the gap it leaves undearneath
-		The displacement depends on from where you perform the trick, the higher you do it, the lower the entities will go and vice versa
-		Try performing it from the spiked side and/or with a neutral theo drop
-		Get comfortable with this tech as you will be required to perform it in mid-air situations
-		The name can be shortened by ced or bed
+		Welcome to the Core block entity displacement gym room, this trick can only be perfomed on fire mode.
+		To perform Core/Bounce block entity displacement, first, break the core block,
+		Secondly, for consistency, place your self inside the core block respawn position, stopping it from respawning.
+		Wait until when the core block can instantly respawn upon leaving.
+		Leave the core block respawn position and immediately grab it before it even finishes spawning in, then, release quickly to instantly break the coreblock.
+		If performed properly, entities attached to the core block will stay displaced while the coreblock stays broken.
+		To pet the cat, stop the core block from respawning with your Theo crystal, so you can use the entities attached.
+		To come back, use a demo dash on the gap it leaves undearneath.
+		The displacement depends on where you perform the trick from, the higher you do it, the lower the entities will go and vice versa.
+		Try performing it from the spiked side and/or with a neutral theo drop.
+		Get comfortable with this tech as you will be required to perform it in mid-air situations.
+		The name can be shortened to ced or bed.
 	#Lava-ice neutrals presentation
 	wymiki_gym_r2=
-		Welcome to the lava/ice neutral/climb room
-		This is a dashless tech that allows you to use lava/ice walls on your advantage
-		For climbing, perform your self on the pixel next to the wall, in this room you may use the switch block to aling properly
-		Then just climb jump normally
-		For neutral climbing, jump into the wall and buffer jump withing 5f of touching the wall
-		You will also need to stop holding any direction upon doing the jump (like a normal neutral climb)
-		Both of this can be performed with theo, but he will make matters worse
+		Welcome to the lava/ice neutral/climb room.
+		This is a dashless tech that allows you to use lava/ice walls on your advantage.
+		For climbing, position your self on the pixel next to the wall, in this room you may use the switch block to align properly.
+		Then just climbjump normally.
+		For neutral climbing, jump into the wall and buffer jump within 5f of touching the wall.
+		You will also need to stop holding any directions a few frames before doing the jump to avoid hitting the lava.
+		Both of these can be performed with theo, but he will make matters worse.
 	#Dream zipline wall boost 
 	wymiki_gym_r1=
-		This tech isn't use much on the map but is good to know
-		It is based on momentum carry
-		In this setup you execute a wallbounce by jumping while you still have the liftboost from the zip dream block
-		Basically, execute a dream jump and jump again quickly to wallbounce off the core block in front
+		This tech isn't used much in the map but is good to know.
+		It is sometimes referred to as a momentum carry.
+		In this setup you execute a higher than usual walljump by jumping while you still have the liftboost from the zip dream block.
+		Basically, execute a dream jump and jump again quickly to wallbounce off the core block in front.
 	#Dream smuggle
 	wymiki_gym_r4=
-		This tech is called dream smuggle
-		For this map, diagonal dream smuggling has been tweaked to give the same window as a horizontal smuggle
-		The tech can be performed from any side of the dream block except from the top (downwards)
-		To do it, position your self close to the dream block, throw/drop theo and dash into the dream block
-		Before entering the dream block, regrab theo
-		If done properly, you will have theo at the other side
-		If you perform a dream grab at the other side, you can even dash while holding theo
+		This tech is called dream smuggle.
+		For this map, diagonal dream smuggling has been tweaked to give the same window as a horizontal smuggle.
+		The tech can be performed from any side of the dream block however performing it from the top is much more precise (and will not be required).
+		To do it, position your self close to the dream block, throw/drop theo and dash into the dream block.
+		Before entering the dream block, regrab theo.
+		If done properly, you will have theo at the other side.
+		If you perform a dream grab at the other side, you can even dash while holding theo.
 	#C-POP NOOOOO
 	wymiki_gym_r5=
-		C-pop
-		Search for a tutorial, gl
-		But to sum up
-		Hold to the lowest point of the ledge, hold the direction you wanna go to, and press the down button for some frames
-		Upon falling, quickly jump
-		If done properly, you should get to the next switch block
+		Ceiling Pop
+		Search for a tutorial, gl.
+		But to sum it up.
+		Hold to the lowest point of the wall, hold the direction you wanna go to, and press the down button for some frames.
+		Upon sliding below the wall, quickly jump.
+		If done properly you should get to the next switch block.
 	#Bewy
 	wymiki_gym_r6=
 		Bewy
