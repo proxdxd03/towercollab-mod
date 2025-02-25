@@ -109,6 +109,31 @@ TowerCollab_proxdxd03_ascent=
 Towercollab_proxdxd03_confrontationaltherapy_memo= 
     {# 2F002F}{^ 0.9}Dear {# 5F005F}{savedata Name}{#},{n}we have been noticing a certain unhealthy behaviour in your subconscience.{n}Ever since our partners at {#8f3f9f}Celeste Mountain Inc.{#} slightly overestimated your ability to deal with your inner worries,{n}you seem to be immensely impaired by the memories of their manifestation of these.{n}This is why we kindly asked our partners at {#5f9f6f}Tower Engineering Inc.{#} to install this dream therapy of ours.{n}{#5f3fbf}Science{#} has proven that the best way to relinquish your inner worries is to destroy them properly.{n}Luckily our careless partners at {n}{#8f3f9f}Celeste Mountain Inc.{#} at least left us a few useful tools to help you with that.{n}Since we kindly forgot to install the emergency exit from this dream world, please patiently destroy all the upcoming{n}mutated versions of your demons using the properly supplied tools next to them.{n}After completing this task, you will kindly be released and a 5-star review of our service will be sent in your name.{n}{n}Best regards,{n}{#9f8f5f}The Demon Genetic Engineering Lab{#}{/^}{#}
 
+Towercollab_proxdxd03_confrontationaltherapy_bossfighthint_1= 
+    FIVEFOLD ATTACK
+Towercollab_proxdxd03_confrontationaltherapy_bossfighthint_2= 
+    DEFEATS THE NIGHTMARE
+Towercollab_proxdxd03_confrontationaltherapy_howtosultra= 
+    {anchor bottom}	
+    {1.5}
+    [MADELINE_MIRROR left normal] {>> 2}this one is for all of you celeste tech enjoyers who always want to find new weird tricks
+    in case u couldnt already tell this is a chained ultra
+    but dont you worry, this is not a normal ultra \(were not boring\)
+    you see, all this map we already used seekers in every room, so why stop there...
+    muahahahaha
+    this is in fact the worlds first intended SULTRA™️!
+    you get it? a seeker ultra
+    yea, dont worry, its simple
+    just stun the seeker and use the respawn boost to start your ultra
+    the thing on the right is a speed shatter block btw, so u gotta go fast
+    ohh, and dont forget bumper boost mechanics, they might come in handy{>>}
+    [MADELINE_MIRROR left upset] ...{1}How did I just talk?
+    This wasn't me.
+    Goddammit, y'all, can you please at least not hijack my brain, if you already trap me in this weird dream space?
+    Thanks for the info tho.
+Towercollab_proxdxd03_confrontationaltherapy_glass=
+    {anchor bottom}	
+    [MADELINE_MIRROR left deadpan]  glass
 Towercollab_proxdxd03_confrontationaltherapy_ultraspeed= 
     320
 
