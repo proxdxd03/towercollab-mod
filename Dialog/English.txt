@@ -136,6 +136,24 @@ Towercollab_proxdxd03_confrontationaltherapy_glass=
     [MADELINE_MIRROR left deadpan]  glass
 Towercollab_proxdxd03_confrontationaltherapy_ultraspeed= 
     320
+Towercollab_proxdxd03_confrontationaltherapy_00= 
+    SQUISH
+Towercollab_proxdxd03_confrontationaltherapy_01= 
+    KNOCKDOWN
+Towercollab_proxdxd03_confrontationaltherapy_02= 
+    HEAVY WEIGHT
+Towercollab_proxdxd03_confrontationaltherapy_03= 
+    SLAUGHTER
+Towercollab_proxdxd03_confrontationaltherapy_04= 
+    TRAP
+Towercollab_proxdxd03_confrontationaltherapy_05= 
+    CYCLE
+Towercollab_proxdxd03_confrontationaltherapy_05R= 
+    CONFRONTATION
+Towercollab_proxdxd03_confrontationaltherapy_06= 
+    PUSH & ESCAPE
+Towercollab_proxdxd03_confrontationaltherapy_06R= 
+    ACCELERATE
 
 
 H0wlingWulfAADash=
