@@ -526,7 +526,8 @@
   </Tileset>
   <Tileset id="ѩ" copy="z" path="TowerCollab/proxdxd03/abstract" displayName="Abstract"/>
   <Tileset id="ҩ" copy="z" path="TowerCollab/proxdxd03/abstractholdable" displayName="Abstract Holdable"/>
-   <Tileset id="ϛ" copy="z" path="TowerCollab/proxdxd03/tower" displayName="Start Tower"/>
-   <Tileset id="ϭ" copy="z" path="TowerCollab/proxdxd03/underwater" displayName="Underwater"/>
+  <Tileset id="ϛ" copy="z" path="TowerCollab/proxdxd03/tower" displayName="Start Tower"/>
+  <Tileset id="ϭ" copy="z" path="TowerCollab/proxdxd03/underwater" displayName="Underwater"/>
+  <Tileset id="Ñ" copy="z" path="TowerCollab/MaxAl/cloud" displayName="Cloud" sound="8"/>
   
 </Data>
