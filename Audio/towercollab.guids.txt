@@ -701,8 +701,10 @@
 {c1bdf87a-e1a3-45ee-a76e-75f9b4d8b8f9} event:/towercollab/gravitycavity
 {141b8344-1c94-427a-9ea8-dc612d1cf39e} event:/towercollab/practicegrounds
 {16ab5a9a-9f0b-4675-83a0-7350c959c396} event:/towercollab/snowballfight
+{226a8f37-ccdc-4517-a9ab-ef1ec63ad13b} event:/towercollab/spacedream 2
 {68d5fad2-608d-44fb-8b8a-80362996e189} event:/towercollab/spacedream
 {4098a669-3059-406b-8395-1ce31c7c16b5} event:/towercollab/zipeline
+{aa4185e5-50c0-4e6f-9ada-095663e1207f} event:/towercollab/cassette
 {c4d2289a-859e-42e9-ba38-eee1791a3a62} event:/ui/game/chatoptions_appear
 {dd4cb027-0132-4039-9303-c9ad8589683e} event:/ui/game/chatoptions_roll_down
 {1b030b2e-c125-40d5-b582-5819c6c29584} event:/ui/game/chatoptions_roll_up
