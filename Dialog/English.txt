@@ -154,6 +154,8 @@ Towercollab_proxdxd03_confrontationaltherapy_06=
     PUSH & ESCAPE
 Towercollab_proxdxd03_confrontationaltherapy_06R= 
     ACCELERATE
+Towercollab_proxdxd03_confrontationaltherapy_return= 
+    {ph_trigger set_flag proxdxd03-RR05R-return true}
 
 
 H0wlingWulfAADash=

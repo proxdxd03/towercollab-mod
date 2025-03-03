@@ -1,0 +1,13 @@
+MaxHearts: 5
+Spacing: -56
+Hearts:
+  - Name: blue
+    Texture: heartgem0
+  - Name: red
+    Texture: MultiheartHelper/heartgeminvert
+  - Name: yellow
+    Texture: heartgem0
+  - Name: orange
+    Texture: heartgem0
+  - Name: purple
+    Texture: MultiheartHelper/heartgeminvert
