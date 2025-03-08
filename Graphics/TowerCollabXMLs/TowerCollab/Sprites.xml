@@ -1137,4 +1137,31 @@
     <Anim id="shockwave" path="" delay="0.05" frames="163-181"/>
   </therapySeekerShockwave>
 
+  <therapyBossSeeker path="characters/TowerCollab/proxdxd03/monsters/therapyboss/" start="idle">
+    <Justify x="0.5" y="0.5"/>
+    <Loop id="idle" path="" delay="0.08" frames="0-19"/>
+    <Loop id="search" path="" delay="0.08" frames="0-19,20-39"/>
+    <Anim id="spot" path="" delay="0.07" frames="40-43" goto="spotted"/>
+    <Loop id="spotted" path="" delay="0.07" frames="44-48"/>
+    <Anim id="windUp" path="" delay="0.07" frames="103-107" goto="attacking"/>
+    <Loop id="attacking" path="" delay="0.07" frames="49-53"/>
+    <Anim id="takeHit" path="" delay="0.07" frames="108-121" goto="stunned"/>
+    <Loop id="stunned" path="" delay="0.07" frames="122,123" />
+    <Loop id="pulse" path="" delay="0.04" frames="144-151" />
+    <Anim id="recover" path="" delay="0.07" frames="152-162"/>
+    <Anim id="skid" path="" delay="0.07" frames="129-133" goto="attacking"/>
+    <Loop id="dazed" path="" delay="0.07" frames="134-143" />
+    
+    <Anim id="hatch" path="" delay="0.05" frames="75-102" goto="idle"/>
+    <Loop id="statue" path="" delay="0.07" frames="75" />
+
+    <Anim id="flipMouth" path="" delay="0.05" frames="61-63" goto="spotted"/>
+    <Anim id="flipEyes" path="" delay="0.05" frames="68-74" goto="search"/>
+  </therapyBossSeeker>
+	
+  <therapyBossSeekerShockwave path="characters/TowerCollab/proxdxd03/monsters/therapyboss/" start="shockwave">
+	<Center/>
+    <Anim id="shockwave" path="" delay="0.05" frames="163-181"/>
+  </therapyBossSeekerShockwave>
+
 </Sprites>
