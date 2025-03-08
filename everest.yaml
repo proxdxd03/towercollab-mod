@@ -5,6 +5,8 @@
       Version: 1.12.10
     - Name: AdventureHelper
       Version: 1.6.0
+    - Name: ArphimigonsToyBox
+      Version: 1.4.0
     - Name: Batteries
       Version: 1.1.4
     - Name: BrokemiaHelper
@@ -16,17 +18,17 @@
     - Name: CherryHelper
       Version: 1.8.1
     - Name: ChroniaHelper
-      Version: 1.28.13
-    - Name: ChroniaHelper
       Version: 1.25.13
+    - Name: ChroniaHelper
+      Version: 1.28.13
     - Name: ChronoHelper
       Version: 1.2.1
     - Name: CollabUtils2
       Version: 1.10.13
     - Name: CommunalHelper
-      Version: 1.20.11
-    - Name: CommunalHelper
       Version: 1.20.6
+    - Name: CommunalHelper
+      Version: 1.20.11
     - Name: ContortHelper
       Version: 1.5.5
     - Name: CpopHelper
@@ -61,6 +63,8 @@
       Version: 1.6.30
     - Name: FrostHelper
       Version: 1.59.1
+    - Name: GameHelper
+      Version: 1.6.2.0
     - Name: GravityHelper
       Version: 1.2.22
     - Name: GravityHelper
@@ -73,6 +77,8 @@
       Version: 1.7.3
     - Name: JungleHelper
       Version: 1.3.3
+    - Name: KoseiHelper
+      Version: 1.10.2.1
     - Name: LunaticHelper
       Version: 1.1.1
     - Name: MaxHelpingHand
@@ -105,6 +111,8 @@
       Version: 1.4.0
     - Name: SorbetHelper
       Version: 1.6.1
+    - Name: Spekio's Toolbox
+      Version: 1.4.0
     - Name: Spooooky's Asset Pack
       Version: 1.0.9
     - Name: StyleMaskHelper
