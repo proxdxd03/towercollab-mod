@@ -1,0 +1,29 @@
+# Checkpoint Name
+
+TowerCollab_LogLog= peepo
+TowerCollab_LogLog_peepo= peepo
+TowerCollab_LogLog_peepo_LogLog_01= peepo
+
+
+# Checkpoint Title
+
+LogLog_PeepoTower_CheckpointLabel= peepo
+LogLog_PeepoTower_CreatorLabel= by LogLog and Klaus (M44)
+
+
+# Statue
+
+LogLog_PeepoTower_Statue=
+PEEPO LAND
+Thank you for stopping by at the
+Peepo Land of the Clouds.
+We hope you enjoyed your stay
+and will visit again soon.
+
+
+# shhhhhhhhhhh
+
+LogLog_PeepoTower_HiddenText1= /pst:th/
+LogLog_PeepoTower_HiddenText2= bwt.uomwyoc.uew
+LogLog_PeepoTower_HiddenText3= t?cwvah
+LogLog_PeepoTower_HiddenText4= GBV2GZbrpWA

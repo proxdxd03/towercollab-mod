@@ -1,0 +1,13 @@
+### Commands
+# {~}wavy text{/~}
+# {!}impact text{/!}
+# {# 000000}color text{#} (uses HEX color values)
+# {n} creates a newline, without a page break
+# {0.#} pause
+# {big}big text{/big}
+# {*}shake text{/*}
+# {%}drunk text{/%}
+
+##### Chapter Title #####
+
+TowerCollab_YourName_Template_YourName_T00= Template

@@ -113,6 +113,8 @@ Towercollab_proxdxd03_confrontationaltherapy_bossfighthint_1=
     FIVEFOLD ATTACK
 Towercollab_proxdxd03_confrontationaltherapy_bossfighthint_2= 
     DEFEATS THE NIGHTMARE
+Towercollab_proxdxd03_confrontationaltherapy_bossfighthint= 
+    This room's seeker can be killed by hitting it five times.
 Towercollab_proxdxd03_confrontationaltherapy_howtosultra= 
     {anchor bottom}	
     {1.5}
