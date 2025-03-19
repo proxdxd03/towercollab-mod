@@ -131,11 +131,22 @@ Towercollab_proxdxd03_confrontationaltherapy_howtosultra=
     ohh, and dont forget bumper boost mechanics, they might come in handy{>>}
     [MADELINE_MIRROR left upset] ...{1}How did I just talk?
     This wasn't me.
-    Goddammit, y'all, can you please at least not hijack my brain, if you already trap me in this weird dream space?
+    Goddammit, y'all, can you please at least not put words in my mouth, if you already trap me in this weird dream space?
     Thanks for the info tho.
 Towercollab_proxdxd03_confrontationaltherapy_glass=
     {anchor bottom}	
     [MADELINE_MIRROR left deadpan]  glass
+Towercollab_proxdxd03_confrontationaltherapy_final=
+    {ph_trigger baddy_split -15 -5}
+    [BADELINE right scoff] You got this, girl. This room looks easy, and I feel like it's the last one.
+    [MADELINE_MIRROR left determined] Nice, finally I will get out of this area. 
+    [MADELINE_MIRROR left normal] Never again am I going to order heaven on TEMU.
+    [BADELINE right normal] Anyways, {*}M-d*.'n§{/*}
+    [BADELINE right concerned] {*}"a=el?`e{/*}?
+    {ph_trigger baddy_vanish}
+    [MADELINE_MIRROR left surprised] What the hell is happening now?
+    [MADELINE_MIRROR left panic] I don't like this...
+    
 Towercollab_proxdxd03_confrontationaltherapy_ultraspeed= 
     320
 Towercollab_proxdxd03_confrontationaltherapy_00= 
